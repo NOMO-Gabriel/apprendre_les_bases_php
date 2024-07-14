@@ -16,6 +16,8 @@ Bienvenue dans le projet **apprendre** ! Ce projet est conçu pour vous aider à
 
 Ce projet est structuré en deux formations principales : `formation_php1` et `formation_php2`, chacune contenant plusieurs leçons avec des fichiers `tuto_nomDelaLecon.php` pour les explications détaillées et `code_nomDeLaLecon.php` pour les exemples de code.
 
+## Il est a noter que le projet n'est pas encore termine donc ceci n'est qu'un template donc ne vous fiez pas a tout ce qui est ecrit.
+
 ## Structure du projet
 
 - `formation_php1/`
