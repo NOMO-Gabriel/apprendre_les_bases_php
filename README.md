@@ -53,8 +53,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
    git clone https://github.com/votre-utilisateur/votre-depot.git
 Naviguer vers la formation souhaitée :
 
-sh
-Copier le code
+
 cd votre-depot/formation_php1
 # ou
 cd votre-depot/formation_php2
@@ -64,31 +63,28 @@ Ouvrez le fichier tutoriel.php dans l'éditeur de votre choix pour lire les expl
 Exécuter le code :
 Exécutez le fichier code.php pour voir le code en action. Utilisez un serveur local comme XAMPP ou MAMP, ou le serveur PHP intégré :
 
-sh
-Copier le code
 php -S localhost:8000
-Contribuer
+
+
+### Contribuer
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, suivez ces étapes :
 
 Fork le dépôt.
 Créer une branche pour votre fonctionnalité ou correction :
-sh
-Copier le code
+
 git checkout -b ma-nouvelle-branche
 Commit vos modifications :
-sh
-Copier le code
+
 git commit -m "Ajout d'une nouvelle fonctionnalité"
 Push vers la branche :
 sh
 Copier le code
 git push origin ma-nouvelle-branche
+
 Ouvrir une Pull Request.
 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
 
-go
-Copier le code
 
 
 
