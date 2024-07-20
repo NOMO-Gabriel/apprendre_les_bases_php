@@ -74,10 +74,10 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 ## Comment utiliser ce projet
 
   1. **Cloner le dépôt** :
-    ```sh
+  
       git clone https://github.com/NOMO-Gabriel/apprendre_les_bases_php.git
   2. **Naviguer vers la formation souhaitée** :         
-    ```sh
+    
       - cd apprendre_les_bases_php/formation_php1
        ou
       - cd apprendre_les_bases_php/formation_php2
@@ -105,7 +105,7 @@ git checkout -b ma-nouvelle-branche
 git commit -m "Ajout d'une nouvelle fonctionnalité"
 
   4- **Push vers la branche**:
-    ```sh
+    
       git push origin ma-nouvelle-branche
   5-**Me faire un mail**: 
   
