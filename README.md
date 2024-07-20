@@ -88,7 +88,8 @@ Ouvrez le fichier tuto.php dans l'editeur ou le navigateur de votre choix pour l
 
 ## Exécuter le code :
 Exécutez le fichier code.php pour voir le code en action. Utilisez un serveur local comme XAMPP ou MAMP, ou le serveur PHP intégré :
-php -S localhost:8000
+    
+      php -S localhost:8000
 
 
 ### Contribuer
@@ -98,11 +99,11 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 2- **Créer une branche pour votre fonctionnalité ou correction** :
 
-git checkout -b ma-nouvelle-branche
+    git checkout -b ma-nouvelle-branche
 
 3- **Commit vos modifications** :
 
-git commit -m "Ajout d'une nouvelle fonctionnalité"
+      git commit -m "Ajout d'une nouvelle fonctionnalité"
 
   4- **Push vers la branche**:
     
