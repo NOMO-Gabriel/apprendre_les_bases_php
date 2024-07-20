@@ -75,12 +75,14 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
   1. **Cloner le dépôt** :
   
-      git clone https://github.com/NOMO-Gabriel/apprendre_les_bases_php.git
+          git clone https://github.com/NOMO-Gabriel/apprendre_les_bases_php.git
+
   2. **Naviguer vers la formation souhaitée** :         
     
-      - cd apprendre_les_bases_php/formation_php1
+         cd apprendre_les_bases_php/formation_php1
        ou
-      - cd apprendre_les_bases_php/formation_php2
+       
+         cd apprendre_les_bases_php/formation_php2
 
 
 ## Choisir une lecon et Lire le tutoriel :
